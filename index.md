@@ -9,7 +9,7 @@ Expanded Beam Cable Assembly by HARTING offers an alternative in which the fiber
 In addition, with this solution, the disconnection of the wiring is less problematic than in other fiber optic cables. Even if the length of the optical connection is extended, it is not a complication either, since an additional cable can be connected easily, without needing to pay attention to the direction of distribution. In this way, customers save time and money.
 
 Where to use fiber optics for difficult environments
-Now a days many [url=https://www.fieldengineer.com/blogs/observations-solutions-cables-companies/] Cable internet companies [/url]are available in market.The new HARTING solution is applicable in places exposed to adverse conditions, where standard optical connectors can not guarantee the required reliability and, until now, access to FOC was difficult.
+Now a days many [Cable internet companies](https://www.fieldengineer.com/blogs/observations-solutions-cables-companies/)are available in market.The new HARTING solution is applicable in places exposed to adverse conditions, where standard optical connectors can not guarantee the required reliability and, until now, access to FOC was difficult.
 
 The excavation of tunnels and mining are just two examples of the use of this optical fiber for difficult environments. Expanded Beam Cable Assembly can also be adopted when linking networks in construction of platforms or container ports.
 PROFIBUS repeater by optical fiber
